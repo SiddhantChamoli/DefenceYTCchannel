@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  text-align: left;
+  font-family: georgia,serif;
+}
+h3{
+  margin: 0 auto 0 auto;
+  font-family: emoji;
+  text-align: center;
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;;
+}
+img{
+  align-items: center;
+}
+.army{
+  margin-left: 500px;
+    margin-right: 50px;
+
+}
+.navy{
+  margin-left: 60px;
+    margin-right: 50px;
+
+}
+.airforce{
+  margin-left: 70px;
+    margin-right: 50px;
+}
+.top-container{
+  background-color: #7FBCD2;
+}
+.link{
+  text-align: center;
+}
+.mid{ margin-top: : 0;
+  background-color: #54BAB9;
+}
+.tank{
+  margin-left: 500px;
+    margin-right: 500px;
+}
+
+.submarine{
+  margin-left: 50px;
+    margin-right: 50px;
+
+}
+.fighterjets{
+  margin-left: 700px;
+    margin-right: 500px;
+}
+.arpit{
+  background-color: #A1C298;
+}
+.team{
+  margin-left: 650px;
+    margin-right: 50px;
+}
+.link{ background-color: cyan;
+  text-align: center;
+}
+.teamarpit{
+  margin-left: 500px;
+    margin-right: 50px;
+}
+.Sumit{
+  background-color: #87A2FB;
+}
+.lws{
+  margin-left: 600px;
+    margin-right: 50px;
+}
+.neha{
+  background-color: #645CAA;
+}
+.nehamath{
+  margin-left: 600px;
+    margin-right: 50px;
+  }
+.defensewallah
+{
+  background-color: #ECC5FB;
+}
+.global
+{
+  background-color: #A5F1E9;
+}
+.conclusion{
+  background-color: #7FBCD2;
+}
+.poem
+{
+  text-align: center;
+}
+.flag{
+  margin-left: 700px;
+    margin-right: 50px;
+}
+.pilot{
+  margin-left: 500px;
+
+}
